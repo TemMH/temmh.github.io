@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "Артемий Левкевич - PHP Backend-разработчик",
+    "description": "PHP Backend-разработчик: Laravel, Symfony, REST API, обработка данных и оптимизация производительности. Опыт в Brand Analytics и Философт.",
+    "keywords": "Артемий Левкевич, PHP, Backend, Laravel, Symfony, API, резюме",
+    "author": "Артемий Левкевич",
+    "ogImage": "/android-chrome-512x512.png",
+    "twitterCard": "summary_large_image",
+    "siteUrl": ""
+  },
+  "analytics": {
+    "googleAnalyticsId": "",
+    "enableAnalytics": false
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "Site en maintenance",
+    "subtitle": "Je reviens bientôt avec des améliorations.",
+    "allowedIPs": []
+  },
+  "social": {
+    "email": "a.levkevich.dev@gmail.com",
+    "github": "https://github.com/TemMH",
+    "linkedin": "",
+    "telegram": "https://t.me/a_lev_dev",
+    "phone": "+79939399973"
+  },
+  "cv": {
+    "filePath": "/my-assets/Artemiy_Levkevich_CV.pdf",
+    "fileName": "Artemiy_Levkevich_CV.pdf"
+  }
+}

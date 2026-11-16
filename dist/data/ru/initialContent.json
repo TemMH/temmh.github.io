@@ -1,0 +1,193 @@
+{
+  "hero": {
+    "label": "BACKEND DEVELOPER // РЕЗЮМЕ #2026",
+    "titleLine1": "LEVKEVICH",
+    "titleLine2": "ARTEMIY",
+    "subtitle": "PHP <span>Backend-разработчик</span>.<br />API, <span>данные</span> и производительность.<br />3 года 5 месяцев <span>коммерческого опыта</span>."
+  },
+  "floatItems": {
+    "location": {
+      "lat": "55.7558 N",
+      "lon": "37.6173 E",
+      "grid": "МОСКВА // РОССИЯ"
+    },
+    "photo": {
+      "url": "/local-assets/code.jpg",
+      "caption": "EVIDENCE_A.jpg"
+    },
+    "code": {
+      "line1": ">> PHP / Laravel / Symfony",
+      "line2": ">> очереди / кэш / REST API",
+      "line3": ">> backend systems online"
+    }
+  },
+  "about": {
+    "sectionTitle": "ПРОФИЛЬ РАЗРАБОТЧИКА",
+    "sectionSubtitle": "РЕЗЮМЕ: AL-2026",
+    "sectionStatus": "СПЕЦИАЛИЗАЦИЯ: PHP BACKEND",
+    "identity": {
+      "nameId": "Артемий Левкевич",
+      "class": "PHP_BACKEND",
+      "location": "МОСКВА, РОССИЯ",
+      "xpLevel": "3 ГОДА 5 МЕСЯЦЕВ",
+      "languages": [
+        "Русский - родной",
+        "Английский B2"
+      ],
+      "statusBadge": "Активно ищу работу",
+      "photo": "/my-assets/avatar.png"
+    },
+    "behavior": {
+      "title": "ОПЫТ И СПЕЦИАЛИЗАЦИЯ",
+      "subtitle": "[ПРОФИЛЬ]",
+      "mainText": "PHP Backend-разработчик с опытом в <span class=\"evidence-highlight\">медиааналитике</span> и сервисах <span class=\"evidence-highlight\">умного дома</span>. Разрабатываю backend-модули, REST API, интеграции и процессы обработки данных. Интересуюсь архитектурой сервисов и производительностью приложений.",
+      "education": {
+        "title": "// ОБРАЗОВАНИЕ",
+        "items": [
+          {
+            "label": "МАИ",
+            "title": "Программно-информационные системы · 09.03.04",
+            "subtitle": "Московский авиационный институт · высшее",
+            "period": "2026"
+          },
+          {
+            "label": "ИАТ",
+            "title": "Разработчик веб и мультимедийных приложений · 09.02.07",
+            "subtitle": "Иркутский авиационный техникум · СПО",
+            "period": "2024"
+          }
+        ]
+      },
+      "experience": {
+        "title": "// КОММЕРЧЕСКИЙ ОПЫТ",
+        "items": [
+          {
+            "label": "BRAND ANALYTICS",
+            "title": "Работал в компании, разрабатывающей систему мониторинга и анализа соцмедиа и СМИ. Система ежедневно обрабатывает более 5 млн сообщений из 50+ источников, включая соцсети, новостные сайты и маркетплейсы, предоставляя клиентам инструменты для медиа анализа и конкурентной разведки.",
+            "subtitle": "Brand Analytics · МОСКВА",
+            "period": "01.2025 - 11.2026"
+          },
+          {
+            "label": "ФИЛОСОФТ",
+            "title": "Разрабатывал системы для умного дома: 200+ комплексов, 60 000+ пользователей. Компания ориентирована на создание готовых решений для девелоперов.",
+            "subtitle": "ФИЛОСОФТ · МОСКВА",
+            "period": "07.2023 - 01.2025"
+          }
+        ],
+        "summary": "3 года 5 месяцев опыта"
+      }
+    },
+    "capabilities": {
+      "inventoryLabel": "ТЕХНОЛОГИИ И ПОДХОДЫ",
+      "hardSkills": {
+        "title": "ТЕХНИЧЕСКИЙ СТЕК",
+        "techs": [
+          "PHP",
+          "Laravel",
+          "Symfony",
+          "Yii2",
+          "MySQL / PostgreSQL",
+          "Redis",
+          "RabbitMQ",
+          "Kafka / WebSocket",
+          "Elasticsearch",
+          "ClickHouse / MongoDB",
+          "Docker / Kubernetes",
+          "GitLab CI / Jenkins",
+          "Linux / Git",
+          "REST API / Swagger",
+          "PHPUnit",
+          "JavaScript / Vue / React"
+        ]
+      },
+      "softSkills": {
+        "title": "ИНЖЕНЕРНЫЕ ПРАКТИКИ",
+        "techs": [
+          "ООП / MVC / SOLID",
+          "Оптимизация запросов",
+          "Асинхронная обработка",
+          "Интеграции API",
+          "Рефакторинг legacy",
+          "Техническая документация"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "sectionTitle": "ЗАДАЧИ И РЕЗУЛЬТАТЫ",
+    "sectionSubtitle": "ИЗ КОММЕРЧЕСКОГО ОПЫТА",
+    "sectionStatus": "2023 - 2026",
+    "stripActions": {
+      "openFile": "ОТКРЫТЬ КЕЙС",
+      "clickToDecrypt": "[ ПОДРОБНЕЕ О ЗАДАЧЕ ]",
+      "secureLabel": "CASE"
+    },
+    "viewer": {
+      "closeButton": "ЗАКРЫТЬ КЕЙС [ESC]",
+      "headerLabel": "ОПЫТ // РАЗБОР ЗАДАЧИ",
+      "evidencePrefix": "КЕЙС #",
+      "metadata": {
+        "title": "О КЕЙСЕ",
+        "roleLabel": "РОЛЬ",
+        "yearLabel": "ПЕРИОД",
+        "ctxLabel": "КОНТЕКСТ",
+        "schoolLabel": "ОРГАНИЗАЦИЯ",
+        "clientLabel": "КОМПАНИЯ",
+        "timeLabel": "ПЕРИОД РАБОТЫ",
+        "stackLabel": "СТЕК:"
+      },
+      "sections": {
+        "missionReport": "ЗАДАЧА И КОНТЕКСТ",
+        "technicalAnalysis": "РЕШЕНИЕ И РЕЗУЛЬТАТ",
+        "additionalEvidence": "МАТЕРИАЛЫ",
+        "agentsLabel": "КОМАНДА:",
+        "accessSite": "НАПИСАТЬ В TELEGRAM"
+      },
+      "evidence": {
+        "evidenceLabel": "МАТЕРИАЛ_",
+        "evidenceImgAlt": "Схема кейса"
+      },
+      "lightbox": {
+        "closeText": "ЗАКРЫТЬ [ESC]",
+        "examineImg": "ПОСМОТРЕТЬ"
+      }
+    }
+  },
+  "contact": {
+    "bgMarquee": "ОБСУДИМ ЗАДАЧУ // СВЯЗАТЬСЯ СО МНОЙ //",
+    "channelStatus": "НА СВЯЗИ",
+    "title": "Обсудим ваш<br />backend?",
+    "email": "a.levkevich.dev@gmail.com",
+    "buttonText": "НАПИСАТЬ НА ПОЧТУ",
+    "secureLineText": "МОСКВА · +7 (993) 939-99-73 · TELEGRAM: @a_lev_dev",
+    "copyright": "&copy; 2026 АРТЕМИЙ ЛЕВКЕВИЧ"
+  },
+  "ui": {
+    "slider": "ЛЕНТА",
+    "list": "СПИСОК",
+    "archive": "АРХИВ КЕЙСОВ",
+    "files": " КЕЙСОВ",
+    "localPreview": "ЛОКАЛЬНЫЙ ПРОСМОТР",
+    "status": "СТАТУС",
+    "contracts": "// ГОТОВ К СОТРУДНИЧЕСТВУ",
+    "remote": "[УДАЛЁННО / ГИБРИД / РАБОТА В ОФИСЕ]",
+    "contribution": "МОЙ ВКЛАД И РЕЗУЛЬТАТ",
+    "drag": "ЛИСТАЙТЕ КЕЙСЫ",
+    "tags": "ТЕГИ:",
+    "classLabel": "ПРОФИЛЬ:",
+    "xpLabel": "ОПЫТ:",
+    "languagesLabel": "ЯЗЫК",
+    "sliderAria": "Показать ленту кейсов",
+    "listAria": "Показать список кейсов",
+    "previousAria": "Предыдущий кейс",
+    "nextAria": "Следующий кейс",
+    "usefulLinks": "ПОЛЕЗНЫЕ ССЫЛКИ",
+    "initializing": "ЗАГРУЗКА...",
+    "signalTracing": "ПОИСК СИГНАЛА...",
+    "relocation": "ГОТОВ К РЕЛОКАЦИИ"
+  },
+  "seo": {
+    "title": "Артемий Левкевич - PHP Backend-разработчик",
+    "description": "PHP Backend-разработчик: Laravel, Symfony, REST API, обработка данных и оптимизация производительности. Опыт в Brand Analytics и Философт."
+  }
+}

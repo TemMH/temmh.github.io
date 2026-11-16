@@ -1,0 +1,33 @@
+/* Personal resume overrides. */
+body { font-family: Arial, sans-serif; }
+#awwwards { display: none !important; }
+.hero-title { font-family: Arial, sans-serif; }
+.strip-title, .project-list-title { overflow-wrap: anywhere; }
+.history-item { line-height: 1.55; }
+.profiler-grid { align-items: start; }
+.contact-section a { overflow-wrap: anywhere; }
+@media (max-width: 640px) {
+  .contact-section { overflow: hidden; }
+  .contact-section a { max-width: 100%; }
+}
+
+.resume-case-title { position: relative; z-index: 2; font-size: clamp(1.8rem, 4vw, 3.5rem); margin: 0 0 2rem; line-height: 1.15; }
+.data-point { flex-wrap: wrap; gap: .5rem; }
+.data-point label { flex-shrink: 0; }
+.data-point span { overflow-wrap: anywhere; }
+.viewer-bg { opacity: .07 !important; }
+@media (max-width: 640px) {
+  .section-header { flex-direction: column !important; align-items: flex-start !important; gap: 1rem !important; }
+  .section-header h2 { width: 100%; margin: 0; overflow-wrap: anywhere; }
+  .section-header > .mono { text-align: left !important; }
+  .data-point { flex-direction: column; align-items: flex-start !important; }
+}
+
+/* Persistent language controls, including narrow screens. */
+.lang-switcher-static { position: fixed; top: 65px; right: 20px; z-index: 10001; display: flex !important; flex-direction: row; gap: 8px; margin: 0; }
+.lang-btn { min-width: 44px; min-height: 44px; }
+.lang-btn:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+.lang-btn:disabled { cursor: wait; }
+@media (max-width: 640px) { .lang-switcher-static { top: 16px; right: 16px; } }
+html[lang="ru"] .slider-container:after { content: "ЛИСТАЙТЕ КЕЙСЫ"; }
+html[lang="en"] .slider-container:after { content: "DRAG TO EXPLORE"; }

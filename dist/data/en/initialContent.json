@@ -1,0 +1,193 @@
+{
+  "hero": {
+    "label": "BACKEND DEVELOPER // RESUME #2026",
+    "titleLine1": "LEVKEVICH",
+    "titleLine2": "ARTEMIY",
+    "subtitle": "PHP <span>Backend Developer</span>.<br />APIs, <span>data</span> and performance.<br />3 years 5 months of <span>commercial experience</span>."
+  },
+  "floatItems": {
+    "location": {
+      "lat": "55.7558 N",
+      "lon": "37.6173 E",
+      "grid": "MOSCOW // RUSSIA"
+    },
+    "photo": {
+      "url": "/local-assets/code.jpg",
+      "caption": "EVIDENCE_A.jpg"
+    },
+    "code": {
+      "line1": ">> PHP / Laravel / Symfony",
+      "line2": ">> queues / cache / REST API",
+      "line3": ">> backend systems online"
+    }
+  },
+  "about": {
+    "sectionTitle": "DEVELOPER PROFILE",
+    "sectionSubtitle": "RESUME: AL-2026",
+    "sectionStatus": "SPECIALIZATION: PHP BACKEND",
+    "identity": {
+      "nameId": "Artemiy Levkevich",
+      "class": "PHP_BACKEND",
+      "location": "MOSCOW, RUSSIA",
+      "xpLevel": "3 YEARS 5 MONTHS",
+      "languages": [
+        "Russian - native",
+        "English B2"
+      ],
+      "statusBadge": "Actively seeking work",
+      "photo": "/my-assets/avatar.png"
+    },
+    "behavior": {
+      "title": "EXPERIENCE AND EXPERTISE",
+      "subtitle": "[PROFILE]",
+      "mainText": "PHP Backend Developer with experience in <span class=\"evidence-highlight\">media analytics</span> and <span class=\"evidence-highlight\">smart home</span> services. I build backend modules, REST APIs, integrations and data processing workflows. My interests include service architecture and application performance.",
+      "education": {
+        "title": "// EDUCATION",
+        "items": [
+          {
+            "label": "MAI",
+            "title": "Software and Information Systems · 09.03.04",
+            "subtitle": "Moscow Aviation Institute · higher education",
+            "period": "2026"
+          },
+          {
+            "label": "IAT",
+            "title": "Web and Multimedia Application Development · 09.02.07",
+            "subtitle": "Irkutsk Aviation Technical School · secondary vocational education",
+            "period": "2024"
+          }
+        ]
+      },
+      "experience": {
+        "title": "// PROFESSIONAL EXPERIENCE",
+        "items": [
+          {
+            "label": "BRAND ANALYTICS",
+            "title": "Worked at a company developing a social media and news monitoring and analytics platform. The system processes more than 5 million messages daily from 50+ sources, including social networks, news websites and marketplaces, providing clients with tools for media analysis and competitive intelligence.",
+            "subtitle": "Brand Analytics · MOSCOW",
+            "period": "01.2025 - 11.2026"
+          },
+          {
+            "label": "FILOSOFT",
+            "title": "Developed smart home systems for 200+ residential complexes and 60,000+ users. The company focuses on ready-to-use solutions for property developers.",
+            "subtitle": "FILOSOFT · MOSCOW",
+            "period": "07.2023 - 01.2025"
+          }
+        ],
+        "summary": "3 years 5 months of experience"
+      }
+    },
+    "capabilities": {
+      "inventoryLabel": "TECHNOLOGIES AND PRACTICES",
+      "hardSkills": {
+        "title": "TECHNICAL STACK",
+        "techs": [
+          "PHP",
+          "Laravel",
+          "Symfony",
+          "Yii2",
+          "MySQL / PostgreSQL",
+          "Redis",
+          "RabbitMQ",
+          "Kafka / WebSocket",
+          "Elasticsearch",
+          "ClickHouse / MongoDB",
+          "Docker / Kubernetes",
+          "GitLab CI / Jenkins",
+          "Linux / Git",
+          "REST API / Swagger",
+          "PHPUnit",
+          "JavaScript / Vue / React"
+        ]
+      },
+      "softSkills": {
+        "title": "ENGINEERING PRACTICES",
+        "techs": [
+          "OOP / MVC / SOLID",
+          "Query optimization",
+          "Asynchronous processing",
+          "API integrations",
+          "Legacy refactoring",
+          "Technical documentation"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "sectionTitle": "TASKS AND RESULTS",
+    "sectionSubtitle": "FROM PROFESSIONAL EXPERIENCE",
+    "sectionStatus": "2023 - 2026",
+    "stripActions": {
+      "openFile": "OPEN CASE",
+      "clickToDecrypt": "[ EXPLORE THE CASE ]",
+      "secureLabel": "CASE"
+    },
+    "viewer": {
+      "closeButton": "CLOSE CASE [ESC]",
+      "headerLabel": "EXPERIENCE // CASE STUDY",
+      "evidencePrefix": "CASE #",
+      "metadata": {
+        "title": "CASE DETAILS",
+        "roleLabel": "ROLE",
+        "yearLabel": "PERIOD",
+        "ctxLabel": "CONTEXT",
+        "schoolLabel": "ORGANIZATION",
+        "clientLabel": "COMPANY",
+        "timeLabel": "EMPLOYMENT PERIOD",
+        "stackLabel": "STACK:"
+      },
+      "sections": {
+        "missionReport": "TASK AND CONTEXT",
+        "technicalAnalysis": "APPROACH AND RESULTS",
+        "additionalEvidence": "MATERIALS",
+        "agentsLabel": "TEAM:",
+        "accessSite": "CONTACT ON TELEGRAM"
+      },
+      "evidence": {
+        "evidenceLabel": "MATERIAL_",
+        "evidenceImgAlt": "Case diagram"
+      },
+      "lightbox": {
+        "closeText": "CLOSE [ESC]",
+        "examineImg": "VIEW IMAGE"
+      }
+    }
+  },
+  "contact": {
+    "bgMarquee": "LET’S TALK // GET IN TOUCH //",
+    "channelStatus": "AVAILABLE TO CONNECT",
+    "title": "Let’s discuss your<br />backend.",
+    "email": "a.levkevich.dev@gmail.com",
+    "buttonText": "SEND AN EMAIL",
+    "secureLineText": "MOSCOW · +7 (993) 939-99-73 · TELEGRAM: @a_lev_dev",
+    "copyright": "&copy; 2026 ARTEMIY LEVKEVICH"
+  },
+  "ui": {
+    "slider": "SLIDER",
+    "list": "LIST",
+    "archive": "CASE ARCHIVE",
+    "files": " CASES",
+    "localPreview": "LOCAL PREVIEW",
+    "status": "STATUS",
+    "contracts": "// OPEN TO COLLABORATION",
+    "remote": "[REMOTE / HYBRID / ON-SITE]",
+    "contribution": "MY CONTRIBUTION AND RESULTS",
+    "drag": "DRAG TO EXPLORE",
+    "tags": "TAGS:",
+    "classLabel": "PROFILE:",
+    "xpLabel": "EXPERIENCE:",
+    "languagesLabel": "LANGUAGE",
+    "sliderAria": "Show case slider",
+    "listAria": "Show case list",
+    "previousAria": "Previous case",
+    "nextAria": "Next case",
+    "usefulLinks": "USEFUL LINKS",
+    "initializing": "INITIALIZING...",
+    "signalTracing": "SIGNAL TRACING...",
+    "relocation": "OPEN TO RELOCATION"
+  },
+  "seo": {
+    "title": "Artemiy Levkevich - PHP Backend Developer",
+    "description": "PHP Backend Developer: Laravel, Symfony, REST APIs, data processing and performance optimization. Experience at Brand Analytics and Filosoft."
+  }
+}

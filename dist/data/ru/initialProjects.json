@@ -1,0 +1,250 @@
+{
+  "projects": [
+    {
+      "id": "01",
+      "title": "Автоматизация отчётов",
+      "type": "Медиааналитика",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "intro": "Модуль автоматического формирования отчётов в системе мониторинга соцмедиа и СМИ.",
+      "description": "Модуль автоматического формирования отчётов в системе мониторинга соцмедиа и СМИ.",
+      "contexte_conception": "Платформа ежедневно обрабатывает более 5 млн сообщений из 50+ источников.",
+      "mon_intervention": "Разработал модуль автоматического формирования отчётов, сократив ручную подготовку аналитики.",
+      "credits": "4 backend / 2 frontend / DevOps / аналитик / QA / тимлид · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-01.svg",
+      "mainImage": "/my-assets/case-01.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "02",
+      "title": "Интеграции и ETL",
+      "type": "Обработка данных",
+      "tags": [
+        "PHP",
+        "REST API",
+        "Swagger"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "PHP",
+        "REST API",
+        "Swagger"
+      ],
+      "intro": "Универсальный ETL-процесс для интеграции более 10 внешних сервисов.",
+      "description": "Универсальный ETL-процесс для интеграции более 10 внешних сервисов.",
+      "contexte_conception": "Новые источники данных нужно было подключать к платформе медиааналитики.",
+      "mon_intervention": "Создал универсальный ETL-процесс, благодаря которому подключение новых источников стало быстрее.",
+      "credits": "4 backend / 2 frontend / DevOps / аналитик / QA / тимлид · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-02.svg",
+      "mainImage": "/my-assets/case-02.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "03",
+      "title": "Поиск и индексация",
+      "type": "Производительность",
+      "tags": [
+        "Elasticsearch",
+        "PHP"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "Elasticsearch",
+        "PHP"
+      ],
+      "intro": "Оптимизация Elasticsearch-кластера: время формирования отчётов сократилось на 30-60%.",
+      "description": "Оптимизация Elasticsearch-кластера: время формирования отчётов сократилось на 30-60%.",
+      "contexte_conception": "Поиск и агрегации по сообщениям соцмедиа и СМИ в системе с большим объёмом данных.",
+      "mon_intervention": "Внедрил time-based индексы, перевёл фильтрацию в filter context и настроил bulk-индексацию. Ускорение зависит от запроса.",
+      "credits": "4 backend / 2 frontend / DevOps / аналитик / QA / тимлид · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-03.svg",
+      "mainImage": "/my-assets/case-03.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "04",
+      "title": "Очереди под нагрузкой",
+      "type": "Асинхронные задачи",
+      "tags": [
+        "RabbitMQ",
+        "PHP"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "RabbitMQ",
+        "PHP"
+      ],
+      "intro": "Разделение очереди на light и heavy задачи для стабильной обработки под нагрузкой.",
+      "description": "Разделение очереди на light и heavy задачи для стабильной обработки под нагрузкой.",
+      "contexte_conception": "Тяжёлые задания в общей очереди задерживали обработку быстрых задач.",
+      "mon_intervention": "Разделил единую очередь RabbitMQ на два потока. Тяжёлые задания перестали блокировать быстрые.",
+      "credits": "4 backend / 2 frontend / DevOps / аналитик / QA / тимлид · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-04.svg",
+      "mainImage": "/my-assets/case-04.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "05",
+      "title": "CI/CD и развёртывание",
+      "type": "Инфраструктура",
+      "tags": [
+        "GitLab CI",
+        "Docker",
+        "Kubernetes"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "GitLab CI",
+        "Docker",
+        "Kubernetes"
+      ],
+      "intro": "Настройка CI/CD для нескольких сервисов и документации по развёртыванию.",
+      "description": "Настройка CI/CD для нескольких сервисов и документации по развёртыванию.",
+      "contexte_conception": "Выпуск релизов и подготовка окружения требовали ручных операций.",
+      "mon_intervention": "Настроил CI/CD: время выпуска релизов и количество ручных ошибок снизились более чем на 50%. Обновил инструкции, сократив время онбординга вдвое.",
+      "credits": "4 backend / 2 frontend / DevOps / аналитик / QA / тимлид · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-05.svg",
+      "mainImage": "/my-assets/case-05.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "06",
+      "title": "Кэширование данных",
+      "type": "Умный дом",
+      "tags": [
+        "Redis",
+        "PHP",
+        "PostgreSQL"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Философт",
+      "duree": "07.2023 - 01.2025",
+      "date": "07.2023 - 01.2025",
+      "stack": [
+        "Redis",
+        "PHP",
+        "PostgreSQL"
+      ],
+      "intro": "Redis-кэширование часто запрашиваемых данных снизило загрузку CPU сервера БД на 40%.",
+      "description": "Redis-кэширование часто запрашиваемых данных снизило загрузку CPU сервера БД на 40%.",
+      "contexte_conception": "Платформа умного дома для более 200 жилых комплексов и 60 000+ пользователей.",
+      "mon_intervention": "Внедрил кэширование часто запрашиваемых данных через Redis, снизив нагрузку на базу данных.",
+      "credits": "5 backend / 2 frontend / DevOps / 2 QA / тимлид · Kanban",
+      "liens_utiles": [],
+      "img": "/my-assets/case-06.svg",
+      "mainImage": "/my-assets/case-06.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "07",
+      "title": "События в реальном времени",
+      "type": "Умный дом",
+      "tags": [
+        "Kafka",
+        "WebSocket",
+        "RabbitMQ"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Философт",
+      "duree": "07.2023 - 01.2025",
+      "date": "07.2023 - 01.2025",
+      "stack": [
+        "Kafka",
+        "WebSocket",
+        "RabbitMQ"
+      ],
+      "intro": "Обновления для 20 000+ пользователей и перенос блокирующих операций в фон.",
+      "description": "Обновления для 20 000+ пользователей и перенос блокирующих операций в фон.",
+      "contexte_conception": "Сервисы умного дома требовали быстрой доставки обновлений и отзывчивого интерфейса.",
+      "mon_intervention": "Организовал передачу обновлений через Kafka и WebSocket. Настроил асинхронную обработку RabbitMQ: время пользовательских операций сократилось на 70%.",
+      "credits": "5 backend / 2 frontend / DevOps / 2 QA / тимлид · Kanban",
+      "liens_utiles": [],
+      "img": "/my-assets/case-07.svg",
+      "mainImage": "/my-assets/case-07.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "08",
+      "title": "API и архитектура",
+      "type": "Интеграции",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "REST API",
+        "Symfony"
+      ],
+      "cadre": "Профессиональный опыт",
+      "ecole_client": "Философт",
+      "duree": "07.2023 - 01.2025",
+      "date": "07.2023 - 01.2025",
+      "stack": [
+        "PHP",
+        "Laravel",
+        "REST API",
+        "Symfony"
+      ],
+      "intro": "Интеграции с 5+ внешними REST API, сервисные контракты и рефакторинг legacy.",
+      "description": "Интеграции с 5+ внешними REST API, сервисные контракты и рефакторинг legacy.",
+      "contexte_conception": "Расширение платформы для более 200 жилых комплексов и синхронизация внешних данных.",
+      "mon_intervention": "Разработал интеграции, внедрил контракты и интерфейсы между модулями. Провёл рефакторинг legacy-кода и автоматизировал окружение, бэкапы и деплой Bash-скриптами.",
+      "credits": "5 backend / 2 frontend / DevOps / 2 QA / тимлид · Kanban",
+      "liens_utiles": [],
+      "img": "/my-assets/case-08.svg",
+      "mainImage": "/my-assets/case-08.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "projects": [
+    {
+      "id": "01",
+      "title": "Report automation",
+      "type": "Media analytics",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "intro": "An automated reporting module for a social media and news monitoring platform.",
+      "description": "An automated reporting module for a social media and news monitoring platform.",
+      "contexte_conception": "The platform processes over 5 million messages a day from more than 50 sources.",
+      "mon_intervention": "Built an automated reporting module that reduced the manual effort required to prepare analytics.",
+      "credits": "4 backend / 2 frontend / DevOps / analyst / QA / team lead · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-01.svg",
+      "mainImage": "/my-assets/case-01.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "02",
+      "title": "Integrations and ETL",
+      "type": "Data processing",
+      "tags": [
+        "PHP",
+        "REST API",
+        "Swagger"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "PHP",
+        "REST API",
+        "Swagger"
+      ],
+      "intro": "A reusable ETL workflow integrating more than 10 external services.",
+      "description": "A reusable ETL workflow integrating more than 10 external services.",
+      "contexte_conception": "The media analytics platform needed to onboard new data sources.",
+      "mon_intervention": "Created a reusable ETL workflow that made connecting new sources faster.",
+      "credits": "4 backend / 2 frontend / DevOps / analyst / QA / team lead · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-02.svg",
+      "mainImage": "/my-assets/case-02.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "03",
+      "title": "Search and indexing",
+      "type": "Performance",
+      "tags": [
+        "Elasticsearch",
+        "PHP"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "Elasticsearch",
+        "PHP"
+      ],
+      "intro": "Elasticsearch cluster optimization reduced report generation time by 30-60%.",
+      "description": "Elasticsearch cluster optimization reduced report generation time by 30-60%.",
+      "contexte_conception": "Search and aggregations across large volumes of social media and news messages.",
+      "mon_intervention": "Introduced time-based indices, moved filtering to filter context and configured bulk indexing. The improvement depends on the query.",
+      "credits": "4 backend / 2 frontend / DevOps / analyst / QA / team lead · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-03.svg",
+      "mainImage": "/my-assets/case-03.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "04",
+      "title": "Queues under load",
+      "type": "Asynchronous tasks",
+      "tags": [
+        "RabbitMQ",
+        "PHP"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "RabbitMQ",
+        "PHP"
+      ],
+      "intro": "Separated light and heavy tasks to keep processing stable under high load.",
+      "description": "Separated light and heavy tasks to keep processing stable under high load.",
+      "contexte_conception": "Heavy jobs in a shared queue delayed shorter tasks.",
+      "mon_intervention": "Split a RabbitMQ queue into two streams so heavy jobs no longer blocked light tasks.",
+      "credits": "4 backend / 2 frontend / DevOps / analyst / QA / team lead · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-04.svg",
+      "mainImage": "/my-assets/case-04.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "05",
+      "title": "CI/CD and deployment",
+      "type": "Infrastructure",
+      "tags": [
+        "GitLab CI",
+        "Docker",
+        "Kubernetes"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Brand Analytics",
+      "duree": "01.2025 - 11.2026",
+      "date": "01.2025 - 11.2026",
+      "stack": [
+        "GitLab CI",
+        "Docker",
+        "Kubernetes"
+      ],
+      "intro": "CI/CD pipelines for several services, with deployment documentation.",
+      "description": "CI/CD pipelines for several services, with deployment documentation.",
+      "contexte_conception": "Releases and environment setup required manual operations.",
+      "mon_intervention": "Configured CI/CD, reducing release time and manual deployment errors by more than 50%. Updated documentation, cutting onboarding time in half.",
+      "credits": "4 backend / 2 frontend / DevOps / analyst / QA / team lead · Scrum",
+      "liens_utiles": [],
+      "img": "/my-assets/case-05.svg",
+      "mainImage": "/my-assets/case-05.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "06",
+      "title": "Data caching",
+      "type": "Smart home",
+      "tags": [
+        "Redis",
+        "PHP",
+        "PostgreSQL"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Filosoft",
+      "duree": "07.2023 - 01.2025",
+      "date": "07.2023 - 01.2025",
+      "stack": [
+        "Redis",
+        "PHP",
+        "PostgreSQL"
+      ],
+      "intro": "Redis caching of frequently requested data reduced database server CPU load by 40%.",
+      "description": "Redis caching of frequently requested data reduced database server CPU load by 40%.",
+      "contexte_conception": "A smart home platform serving more than 200 residential complexes and 60,000 users.",
+      "mon_intervention": "Introduced Redis caching for frequently requested data, reducing load on the database.",
+      "credits": "5 backend / 2 frontend / DevOps / 2 QA / team lead · Kanban",
+      "liens_utiles": [],
+      "img": "/my-assets/case-06.svg",
+      "mainImage": "/my-assets/case-06.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "07",
+      "title": "Real-time events",
+      "type": "Smart home",
+      "tags": [
+        "Kafka",
+        "WebSocket",
+        "RabbitMQ"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Filosoft",
+      "duree": "07.2023 - 01.2025",
+      "date": "07.2023 - 01.2025",
+      "stack": [
+        "Kafka",
+        "WebSocket",
+        "RabbitMQ"
+      ],
+      "intro": "Updates for 20,000+ users and moving blocking operations to background jobs.",
+      "description": "Updates for 20,000+ users and moving blocking operations to background jobs.",
+      "contexte_conception": "Smart home services required fast updates and a responsive interface.",
+      "mon_intervention": "Implemented updates through Kafka and WebSocket. Configured asynchronous RabbitMQ processing, reducing user operation time by 70%.",
+      "credits": "5 backend / 2 frontend / DevOps / 2 QA / team lead · Kanban",
+      "liens_utiles": [],
+      "img": "/my-assets/case-07.svg",
+      "mainImage": "/my-assets/case-07.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    },
+    {
+      "id": "08",
+      "title": "APIs and architecture",
+      "type": "Integrations",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "REST API",
+        "Symfony"
+      ],
+      "cadre": "Professional experience",
+      "ecole_client": "Filosoft",
+      "duree": "07.2023 - 01.2025",
+      "date": "07.2023 - 01.2025",
+      "stack": [
+        "PHP",
+        "Laravel",
+        "REST API",
+        "Symfony"
+      ],
+      "intro": "Integrations with 5+ external REST APIs, service contracts and legacy refactoring.",
+      "description": "Integrations with 5+ external REST APIs, service contracts and legacy refactoring.",
+      "contexte_conception": "Extending a platform for 200+ residential complexes and synchronizing external data.",
+      "mon_intervention": "Built integrations and introduced contracts and interfaces between modules. Refactored legacy code and automated environment setup, backups and deployment with Bash scripts.",
+      "credits": "5 backend / 2 frontend / DevOps / 2 QA / team lead · Kanban",
+      "liens_utiles": [],
+      "img": "/my-assets/case-08.svg",
+      "mainImage": "/my-assets/case-08.svg",
+      "innerImg1": "",
+      "innerImg2": "",
+      "gallery": [],
+      "lien_projet": ""
+    }
+  ]
+}
